@@ -1,4 +1,4 @@
-# office-display-data
+# office-display-data v1
 
 Scheduled data job for the Solnet office display. Fetches free, public weather and space-data sources (MET Norway,
 Buienradar, DWD/Bright Sky, FMI, ECMWF Open Data, NDBC, SETI meteor detections) and publishes small JSON/text files
