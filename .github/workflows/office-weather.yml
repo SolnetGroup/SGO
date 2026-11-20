@@ -1,5 +1,5 @@
 name: office-display data
-# Runner and action versions verified 2026-09-21: actions/checkout v6 and actions/setup-python v6 run on Node 24
+# Runner and, action versions verified 2026-09-21: actions/checkout v6 and actions/setup-python v6 run on Node 24
 # (v4/v5 target the deprecated Node 20); ubuntu-24.04 is pinned because the ubuntu-latest label migrates to
 # Ubuntu 26 on 2026-10-19. Re-check both before October 2026 (see DEPENDENCY-REVIEW.md).
 on:
